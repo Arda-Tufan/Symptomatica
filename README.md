@@ -9,10 +9,11 @@ if yu want to add an disase just do theese steps:
 [YOUR'E DISASE NAME]
 
 youresymptom = YOOUR'E DISASE SYMPTOM
----
----
----
---
+.
+.
+.
+.
+
 
 
 
