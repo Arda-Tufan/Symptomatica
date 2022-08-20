@@ -24,3 +24,5 @@ Threadbla = threading.Thread(target=Read_Disase("YOUR'E DISASE NAME THAT YOU PUT
 Threadbla.start()
 
 Threadbla.join()
+
+Made by @Mors_Atra
