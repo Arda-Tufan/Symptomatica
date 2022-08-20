@@ -1,5 +1,5 @@
 # Symptomatica
-This is a simple python bot to read all of your symptoms that you inputted and diagnose you a disase that relates to your'e symptoms. It runs many threads so your'e computer might think it is a trojan virus (Its not bro trust me) and it is not 100% accurate so DON'T USE IT FOR MEDICAL PURPOSES
+This is a simple python bot to read all of your symptoms that you inputted and diagnose you a disase that relates to your'e symptoms. It runs many threads so your'e computer might think it is a trojan virus (Its not. Just look at the code.) and it is not 100% accurate so DON'T USE IT FOR MEDICAL PURPOSES
 
 
 if yu want to add an disase just do theese steps:
@@ -8,7 +8,7 @@ if yu want to add an disase just do theese steps:
 
 [YOUR'E DISASE NAME]
 
-youresymptom = YOOUR'E DISASE SYMPTOM
+youresymptom = YOUR'E DISASE SYMPTOM
 .
 .
 .
